@@ -2,7 +2,7 @@
 
 This is the code of paper 
 **Rethinking Graph Convolutional Networks in Knowledge Graph Completion**. 
-Zhanqiu Zhang, Jie Wang, Jieping Ye, Feng Wu. WWW 2022.
+Zhanqiu Zhang, Jie Wang, Jieping Ye, Feng Wu. WWW 2022. [[arXiv](https://arxiv.org/abs/2202.05679)]
 
 ## Requirements
 - python 3.7
