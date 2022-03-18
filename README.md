@@ -23,7 +23,7 @@ Meaning of different options.
 ## Citation
 If you find this code useful, please consider citing the following paper.
 ```
-@inproceedings{NEURIPS2021_QECONE,
+@inproceedings{WWW22_GCN4KGC,
  author = {Zhanqiu Zhang and Jie Wang and Jieping Ye and Feng Wu},
  booktitle = {The Web Conference 2022},
  title = {Rethinking Graph Convolutional Networks in Knowledge Graph Completion},
