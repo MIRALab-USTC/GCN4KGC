@@ -286,6 +286,7 @@ def main(args):
     num_rels = data.num_rels
 
     save_path = 'checkpoints/'
+    os.makedirs(save_path, exist_ok=True)
     stopper = EarlyStopping(
         save_path=save_path, model_name=args.decoder+"_"+args.name, patience=args.patience)
 

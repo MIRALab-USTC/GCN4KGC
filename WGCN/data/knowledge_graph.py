@@ -10,8 +10,6 @@ https://github.com/tkipf/relational-gcn
 https://github.com/MichSchli/RelationPrediction
 """
 
-from __future__ import print_function
-from __future__ import absolute_import
 import numpy as np
 import scipy.sparse as sp
 import os
